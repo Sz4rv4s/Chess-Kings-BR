@@ -1,6 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XbZw8B6J)
 # Chess Kings BR
-
+## Ez a projekt eredetileg a Szoftverfejlesztés nevű tárgyamra készült, GitHub Classroomról lett crosspostolva ide.
 ### 2.14 feladat implementációja
 
 ![Kép a feladatról](src/main/resources/task.png)
