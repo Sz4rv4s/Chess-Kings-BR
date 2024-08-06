@@ -1,0 +1,6 @@
+.square {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+    -fx-pref-width: 50px;
+    -fx-pref-height: 50px;
+}
